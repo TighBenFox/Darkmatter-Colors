@@ -2,6 +2,7 @@
 
 ## Detail
 More colors of Darkmatter Theme for Sublime Text (Default Dark Blue, Dark Green, Dark Red &amp; etc.)
+
 Well, the original Darkmatter theme was only dark blue color, that's so boring when you use another colors except dark blue!
 
 ## Demo
