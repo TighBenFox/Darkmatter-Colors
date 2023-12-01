@@ -8,9 +8,9 @@ A Sublime Text 2 / Textmate theme.
 Copyright (c) 2015 Patrick Müller.
 Released under the MIT License <http://opensource.org/licenses/MIT>
 ======================================================================
-with Darkmatter Colors V0.0.2 Red
+with Darkmatter Colors Red
 Released under the MIT License <http://opensource.org/licenses/MIT>
-======================================================================
+======================================================================1f
 -->
 <plist version="1.0">
 <dict>
@@ -22,7 +22,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#1f1419</string>
+				<string>#231419</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
