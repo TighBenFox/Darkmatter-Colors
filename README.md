@@ -1,5 +1,5 @@
 # Darkmatter Colors
-[ZHS](README_ZHS.md)
+<a href="./README_ZHS.md">ZHS</a>
 
 ## Detail
 More colors of Darkmatter Theme (include color scheme) for Sublime Text (Default Dark Blue, Dark Green, Dark Red &amp; etc.)
