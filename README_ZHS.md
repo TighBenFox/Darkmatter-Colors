@@ -1,5 +1,5 @@
 # Darkmatter Colors
-<a href="README.md">EN</a>
+<a href="./README.md">EN</a>
 
 ## 简介
 
